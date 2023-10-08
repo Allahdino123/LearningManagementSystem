@@ -86,7 +86,7 @@ nav .navigation ul li a:hover{
 /* ********** HOME ***********  */
 
 #home{
-    background-image: linear-gradient( rgba(5, 9, 54, 0.3),rgba(5, 4, 6, 0.7)), url("images/back.jpg");
+    background-image: linear-gradient( rgba(5, 9, 54, 0.3),rgba(5, 4, 6, 0.7)), url("images/black.jpg");
     width: 100%;
     height: 100vh;background-position: center;
     background-size: cover;
